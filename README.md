@@ -10,3 +10,4 @@ fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush 
 | TF | HW |Python | CUDA | cuDNN | Support | OS | Download |
 |:------:|:------:|:------:|:----:|:-------:|:-----:|:------------:|:------:|
 | 2.0 |GPU|   3.7  |10.1| 7.6 | w/out AVX,AVX2 | Ubuntu 18.04 x86_64 |[**Download**](https://app.box.com/s/p571878q6hvgnkcwau6lbce9sdvsejr0)|
+| 1.15 |GPU|   3.7  |10.1| 7.6 | w/out AVX,AVX2 | Ubuntu 18.04 x86_64 |[**Download**](https://app.box.com/s/spuank3te8y19uffoi7jk7y0jyvk75pm)|
